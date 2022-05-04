@@ -25,3 +25,11 @@
     background-color: #0489aa;
     color: white;
   }
+  /* Styling of image1 */
+  .img1{
+    float: left;
+    height: 400px;
+    width: 800px;
+    margin: 0px 0px 15px 20px;
+    object-fit: cover;
+  }
